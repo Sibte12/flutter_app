@@ -12,7 +12,7 @@ class WelcomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Lottie.asset('assets/lotties/loading.json'),
+            Lottie.asset('assets/lotties/Loading.json'),
 
             FilledButton(
               onPressed: () {
